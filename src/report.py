@@ -1,1 +1,1 @@
-def report(): pass
+refactored builder
